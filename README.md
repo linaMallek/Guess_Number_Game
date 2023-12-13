@@ -15,8 +15,8 @@ This Java code sets up a server for a guessing game. It generates a multiplied s
 
 
 
-## Player 
+## Player2 Winner 
 <!-- Your image container div -->
 <div class="image-container">
-<img src="https://github.com/linaMallek/Guess_Number_Game/blob/main/assets/player2.png" alt="Image 2">
+<img src="https://github.com/linaMallek/Guess_Number_Game/blob/main/assets/player2.png" alt="Image 3">
 </div>
