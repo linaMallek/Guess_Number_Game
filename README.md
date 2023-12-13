@@ -3,8 +3,12 @@ This Java code sets up a server for a guessing game. It generates a multiplied s
 ## Server 
 <!-- Your image container div -->
 <div class="image-container">
-<img src="![serveur](https://github.com/linaMallek/Guess_Number_Game/assets/92185257/08dc9a38-52f5-4300-9f31-ace502b5da38)
-" alt="Image 2">
+<img src="https://github.com/linaMallek/Guess_Number_Game/blob/main/assets/serveur.png" alt="Image 1">
 <img src="image2.jpg" alt="Image 2">
 </div>
-![serveur](https://github.com/linaMallek/Guess_Number_Game/assets/92185257/08dc9a38-52f5-4300-9f31-ace502b5da38)
+
+## Player 1 
+<!-- Your image container div -->
+<div class="image-container">
+<img src="https://github.com/linaMallek/Guess_Number_Game/blob/main/assets/player1.png" alt="Image 2">
+</div>
