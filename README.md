@@ -1,3 +1,4 @@
+# GUESS GAME  JAVA 
 This Java code sets up a server for a guessing game. It generates a multiplied secret value, listens for client connections, and assigns each a communication channel. Clients submit guesses, and the server provides feedback. When a client correctly guesses, it announces the winner, closes connections, and ends the game.
 
 ## Server 
